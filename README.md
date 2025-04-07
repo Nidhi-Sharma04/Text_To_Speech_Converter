@@ -6,7 +6,7 @@ A lightweight and user-friendly Text-to-Speech (TTS) web app that lets users con
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try the app](https://nidhi-sharma04.github.io/Text_To_Speech_Converter/)
+🔗 [LIVE DEMO](https://nidhi-sharma04.github.io/Text_To_Speech_Converter/)
 
 ---
 
